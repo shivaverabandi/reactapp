@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "postId": 1,
+      "postProfile": "Java Developer",
+      "postDesc": "Need to work on ORM, Spring, Web, AOP, REST API",
+      "reqExperience": 3,
+      "postTechStack": [
+        "Java",
+        "Spring",
+        "Hibernate"
+      ],
+      "id": "d0f4"
+    },
+    {
+      "postId": 2,
+      "postProfile": "R Developer",
+      "postDesc": "Need to work on ORM, Spring, Web, AOP, REST API",
+      "reqExperience": 3,
+      "postTechStack": [
+        "Java",
+        "Spring",
+        "Hibernate"
+      ],
+      "id": "8668"
+    },
+    {
+      "postId": 3,
+      "postProfile": "Ts Developer",
+      "postDesc": "Need to work on ORM, Spring, Web, AOP, REST API",
+      "reqExperience": 3,
+      "postTechStack": [
+        "Java",
+        "Spring",
+        "Hibernate"
+      ],
+      "id": "045a"
+    },
+    {
+      "id": "047a",
+      "postId": 123,
+      "postProfile": "java",
+      "reqExperience": 1,
+      "postTechStack": [
+        "Java"
+      ],
+      "postDesc": "dsfsdfdsfsdf"
+    },
+    {
+      "id": "93e6",
+      "postId": 1232323,
+      "postProfile": "fdsfsdfds",
+      "reqExperience": 123,
+      "postTechStack": [
+        "Javascript",
+        "Java"
+      ],
+      "postDesc": "sdgdgfdgfdhfdhfdgerefdsfsdfsdfdfsfdsdscvd"
+    },
+    {
+      "id": "a537",
+      "postId": 123,
+      "postProfile": "Javascript developer",
+      "reqExperience": 0,
+      "postTechStack": [
+        "Javascript"
+      ],
+      "postDesc": "something new fresher"
+    }
+  ]
+}
